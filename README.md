@@ -15,12 +15,6 @@ This repository contains documentation and resources from the Foothill College G
 1. Demonstrated understanding of appropriate applications of rapid website development technologies and their implementations for website development.
 2. Created websites that effectively demonstrate proficiency with Drupal and WordPress for class critique and portfolio presentation.
 
-## Repository Structure
-- **COURSE-MATERIALS/**: Course syllabus, learning outcomes, and resources
-- **WORDPRESS/**: Documentation on WordPress implementation
-- **DRUPAL/**: Documentation on Drupal implementation
-- **COMPARISON/**: Analysis comparing WordPress and Drupal for different use cases
-- **PORTFOLIO/**: Project showcases and client presentations
 
 ## Contact Information
 - **Name**: Joe Harper
