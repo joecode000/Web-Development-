@@ -1,7 +1,7 @@
 # Website-Development-# GID 78: RAPID WEBSITE DEVELOPMENT
 
 ## Course Overview
-This repository contains documentation and resources from the Foothill College GID 78: Rapid Website Development course. It showcases skills and knowledge in rapid website development using WordPress and Drupal content management systems.
+This repository contains documentation and resources from the Foothill College GID 78: Rapid Website Development course. 
 
 ## Skills Demonstrated
 - WordPress installation, configuration, and customization
@@ -23,6 +23,7 @@ This repository contains documentation and resources from the Foothill College G
   -**Portfolio Project**:([https://wordpress.com/view/harperjoe.wordpress.com])
 
 ## Course Information
-Foothill College  
+Foothill College
+Los Altos Hills, CA   
 Instructor: DeAnna Gossett  
 Winter 2020
