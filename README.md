@@ -20,7 +20,7 @@ This repository contains documentation and resources from the Foothill College G
 - **Name**: Joe Harper
 - **Email**: [joecode00@gmail.com]
 - **LinkedIn**: [(https://www.linkedin.com/services/page/a2968b33597094346b)]
-- ## Portfolio Project ([https://wordpress.com/view/harperjoe.wordpress.com])
+  -**Portfolio Project**:([https://wordpress.com/view/harperjoe.wordpress.com])
 
 ## Course Information
 Foothill College  
