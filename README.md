@@ -1,4 +1,4 @@
-# Website-Development-# GID 78: RAPID WEBSITE DEVELOPMENT
+# Website-Development
 
 ## Course Overview
 This repository contains documentation and resources from the Foothill College GID 78: Rapid Website Development course. 
